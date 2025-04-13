@@ -6,7 +6,7 @@
 # See docs/Config_Reference.md for a description of parameters.
 
 [mcu EBBCan]
-canbus_uuid: d7ffd1331af5
+canbus_uuid: d1b2145dd897
 
 [temperature_sensor EBB_NTC]
 sensor_type: Generic 3950
